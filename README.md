@@ -8,6 +8,13 @@
 
 Master n8n automation platform and become proficient in creating workflows for diverse scenarios using various node types.
 
+## 🚀 Quick Start
+
+**New here?** Start with these guides:
+1. 📖 **[STUDY-GUIDE.md](STUDY-GUIDE.md)** - Complete guide for using this repo to learn
+2. ⚡ **[QUICK-START.md](QUICK-START.md)** - Get started in 10 minutes
+3. 🎯 **[Issue #1](https://github.com/dandange8005/n8n-mastery-learning/issues/1)** - Your first exercise
+
 ## 📚 Learning Philosophy
 
 This learning plan is built on four pedagogical principles:
@@ -48,9 +55,15 @@ n8n-mastery-learning/
 ├── Phase-4-Advanced/
 ├── Phase-5-Mastery-Projects/
 ├── resources/
-├── PROGRESS.md
-├── SKILLS-MATRIX.md
-└── README.md
+│   ├── cheat-sheets/
+│   │   └── expressions.md          ← n8n expressions reference
+│   └── references/
+│       └── useful-links.md          ← Helpful resources
+├── STUDY-GUIDE.md                    ← How to use this repo
+├── QUICK-START.md                    ← 10-minute start guide
+├── PROGRESS.md                       ← Weekly tracking
+├── SKILLS-MATRIX.md                  ← Skills assessment
+└── README.md                         ← You are here
 ```
 
 ## 📅 Current Phase: Foundation
@@ -65,7 +78,7 @@ n8n-mastery-learning/
 - [ ] Differentiate between Manual Trigger and automated triggers
 
 **Exercises**:
-- [ ] 1.1: Hello World Workflow
+- [ ] 1.1: Hello World Workflow ([Issue #1](https://github.com/dandange8005/n8n-mastery-learning/issues/1))
 - [ ] 1.2: HTTP Request Workflow
 - [ ] 1.3: Data Transformation
 - [ ] Assessment: Public API Integration
@@ -89,9 +102,9 @@ Real-world production-grade automation systems.
 
 ## 📈 Progress Tracking
 
-See [PROGRESS.md](PROGRESS.md) for detailed weekly progress tracking.
-
-See [SKILLS-MATRIX.md](SKILLS-MATRIX.md) for skills assessment.
+- **[STUDY-GUIDE.md](STUDY-GUIDE.md)** - Complete learning and note-taking system
+- **[PROGRESS.md](PROGRESS.md)** - Detailed weekly progress tracking
+- **[SKILLS-MATRIX.md](SKILLS-MATRIX.md)** - Skills self-assessment
 
 ## 🔧 Tools & Resources
 
@@ -102,6 +115,10 @@ See [SKILLS-MATRIX.md](SKILLS-MATRIX.md) for skills assessment.
 - `validate_workflow()` - Complete workflow validation
 - `search_templates()` - Find workflow examples
 
+### Quick References
+- **[expressions.md](resources/cheat-sheets/expressions.md)** - n8n expression cheat sheet
+- **[useful-links.md](resources/references/useful-links.md)** - Curated resources
+
 ### External Resources
 - [n8n Documentation](https://docs.n8n.io/)
 - [n8n Community Forum](https://community.n8n.io/)
@@ -110,12 +127,13 @@ See [SKILLS-MATRIX.md](SKILLS-MATRIX.md) for skills assessment.
 
 ## 📝 How to Use This Repository
 
-1. **Start Each Week**: Review learning objectives
-2. **Complete Exercises**: Work through numbered exercises
-3. **Document Learning**: Add notes and insights
-4. **Build Workflows**: Save all workflows
-5. **Update Progress**: Check off completed items
-6. **Track Skills**: Update skills matrix
+**Weekly Routine:**
+1. **Monday**: Create GitHub issues for the week's exercises
+2. **Tue-Thu**: Complete exercises, save workflows, take notes
+3. **Friday**: Complete weekly assessment, update progress
+4. **Weekend**: Reflect and plan next week
+
+**For detailed instructions**, see **[STUDY-GUIDE.md](STUDY-GUIDE.md)**
 
 ## 🎯 Success Metrics
 
@@ -124,9 +142,25 @@ See [SKILLS-MATRIX.md](SKILLS-MATRIX.md) for skills assessment.
 - [ ] Create 10+ intermediate workflows (Week 6-8)
 - [ ] Implement 5+ advanced patterns (Week 9-11)
 - [ ] Deploy 3 production-ready projects (Week 12+)
+- [ ] Achieve "Proficient" in all core skill areas
+- [ ] Contribute to n8n community templates
+
+## 🤝 Contributing to Your Learning
+
+Create issues for:
+- Questions or blockers
+- Workflow review requests
+- Additional exercise ideas
+- Resource suggestions
+
+## 📜 Licence
+
+This learning plan and all created workflows are for personal educational use.
 
 ---
 
 **Last Updated**: October 2025  
 **Current Week**: Week 1  
 **Next Milestone**: Complete Foundation Phase
+
+**Ready to start?** → [Begin with the Study Guide](STUDY-GUIDE.md) or [Jump to Exercise 1.1](https://github.com/dandange8005/n8n-mastery-learning/issues/1)
