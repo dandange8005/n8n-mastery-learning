@@ -1,0 +1,40 @@
+# n8n specific
+*.n8n.json.bak
+.n8n/
+
+# Credentials and secrets
+credentials.json
+.env
+*.key
+*.pem
+secrets/
+
+# Node modules (if using any local tools)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
+
+# Temporary files
+*.tmp
+*.log
+tmp/
+temp/
+logs/
+
+# Personal notes (uncomment if you want private notes)
+# private-notes/
+
+# Test data with sensitive info
+test-data/*-sensitive.*
